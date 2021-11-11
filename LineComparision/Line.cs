@@ -17,6 +17,7 @@ namespace LineComparision
             double length = Math.Sqrt(distance_square);
             return length;
 
+
         }
     }
 }
